@@ -5,7 +5,7 @@
 ### Getting Started
 
 ```
-> git clone
+> git clone https://github.com/atdevops/YoutubeApiReact.git
 > cd YoutubeApiReact
 > npm install
 > npm start
